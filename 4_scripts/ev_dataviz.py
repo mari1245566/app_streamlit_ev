@@ -23,7 +23,8 @@ st.set_page_config(layout="wide")
 
 # Configurando o logo da página
 
-logo = 'logo_book_trend.png'
+#logo = 'logo_book_trend.png'
+logo = os.path.join(script_dir, 'logo_book_trend.png')
 st.logo(logo,link=None, icon_image=None)
 
 # Configurando cabeçalho da página
