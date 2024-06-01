@@ -1,5 +1,5 @@
-pandas
-plotly
-streamlit
-sqlalchemy
-selenium
+pandas==2.2.2
+plotly==5.22.0
+streamlit==1.35.0
+sqlalchemy==2.0.30
+selenium==4.21.0
